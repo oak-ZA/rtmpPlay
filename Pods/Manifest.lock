@@ -1,0 +1,18 @@
+PODS:
+  - PLPlayerKit (3.4.3):
+    - PLPlayerKit/iphoneos (= 3.4.3)
+  - PLPlayerKit/iphoneos (3.4.3)
+
+DEPENDENCIES:
+  - PLPlayerKit (~> 3.4.3)
+
+SPEC REPOS:
+  trunk:
+    - PLPlayerKit
+
+SPEC CHECKSUMS:
+  PLPlayerKit: a44734dc78c1f8f9fb22c537fa1916612fa46b06
+
+PODFILE CHECKSUM: 1fd0b2160e8a6654ea86665dc828ce7cf483c466
+
+COCOAPODS: 1.8.3
